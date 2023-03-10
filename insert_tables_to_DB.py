@@ -1,9 +1,12 @@
 
 import io
+import os
+from dotenv import load_dotenv
 import psycopg2
 import pandas as pd
 from sqlalchemy import create_engine
 
+load_dotenv()
 migration_csv_path = './census_migration_data.csv'
 state_pop_path = './state_populations.csv'
 census_class_path = 'census_classification.csv'
@@ -15,7 +18,8 @@ census_class = pd.read_csv(census_class_path, sep=',')
 
 
 def write_to_postgres(df, df_name):
-    url = "postgresql+psycopg2://rgxurjfq:tmVGy6x7jc8OOmlCm2UhASwOSaP8z3Hn@isilo.db.elephantsql.com/rgxurjfq"
+    url = os.environ["DATABASE_URL"]
+        # "postgresql+psycopg2://rgxurjfq:tmVGy6x7jc8OOmlCm2UhASwOSaP8z3Hn@isilo.db.elephantsql.com/rgxurjfq"
     engine = create_engine(url)
     print(df_name)
     # df.head(0).to_sql(f"{df_name}", engine, if_exists='replace', index=False)
@@ -31,9 +35,10 @@ def write_to_postgres(df, df_name):
     cur.close()
     conn.close()
 
-write_to_postgres(migration,'census_migration_data')
-write_to_postgres(state_pop,'state_populations')
-write_to_postgres(census_class,'census_classifications')
+def run_insert():
+    write_to_postgres(census_class,'census_classifications')
+    write_to_postgres(migration,'census_migration_data')
+    write_to_postgres(state_pop,'state_populations')
 
 
 
