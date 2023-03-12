@@ -19,7 +19,7 @@ census_df.drop('margin_of_error', axis=1, inplace=True)
 
 ###################################
 # MERGE current_state WITH region
-####################################
+###################################
 # merge census df with states df
 current_state = census_df.merge(states, left_on='current_state', right_on='abbrv')
 current_state.drop(['level', 'abbrv'], axis=1, inplace=True)
@@ -37,32 +37,26 @@ curr_region = curr_region.rename(columns={'name': 'current_region'})
 previous_division = curr_region.merge(states, left_on='previous_state', right_on='abbrv')
 previous_division.drop(['id_y', 'name', 'abbrv', 'level'], axis=1, inplace=True)
 previous_division = previous_division.merge(divisions,  left_on='parent_id', right_on='id')
-previous_division.drop(['id', 'abbrv', 'level_x', 'level', 'parent_id_x', 'parent_id_y', 'id_x'], axis=1, inplace=True)
+terms = ['id', 'abbrv', 'level_x', 'level', 'parent_id_x', 'parent_id_y', 'id_x']
+previous_division.drop(terms, axis=1, inplace=True)
 previous_division = previous_division.rename(columns={'name': 'previous_division'})
-print(previous_division)
+# print(previous_division)
 
 
-previous_division.to_csv('./exported_csvs/agg.csv', encoding='utf-8', index=False)
+# previous_division.to_csv('./exported_csvs/agg.csv', encoding='utf-8', index=False)
 # print(previous_division.count())
-aggregate_migration = previous_division[['year', 'previous_division','current_region','estimate']].groupby('year')
-#
-print(aggregate_migration.describe())
-# for key, item in aggregate_migration:
-#     print(aggregate_migration.get_group(key))
-# aggregate_migration.max().reset_index().to_csv('agg.csv', encoding='utf-8', index=False)
-# aggregate_migration
-
-# group = curr_state_division_match.groupby(['parent_id_y', 'year'])
-# print(group)
-# merge previous_state to region
-# previous_region_merge = current_state_division.merge(states(''))
-
-# division_merge.to_csv('merge1.csv', encoding='utf-8', index=False)
+###################################
+# GROUP BY
+###################################
+cols = ['current_region', 'previous_division','estimate']
+group_by_items = ['previous_division', 'current_region', 'year']
+aggregate_migration = previous_division.groupby(group_by_items)[cols].sum(numeric_only=True)
 
 
-# classification_df.set_index('abbrv', inplace=True)
-# census_df['current_division'] = census_df['current_state'].map(classifcation_df['level'])
-# print(census_df)
-# print(states)
-# print(divisions)
-# print(regions)
+print(aggregate_migration)
+aggregate_migration.to_csv('./exported_csvs/aggregated_migration.csv', encoding='utf-8')
+
+
+
+
+

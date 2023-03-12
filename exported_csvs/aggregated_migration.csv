@@ -1,0 +1,361 @@
+previous_division,current_region,year,estimate
+East North Central,Midwest,2010,305332
+East North Central,Midwest,2011,308953
+East North Central,Midwest,2012,309676
+East North Central,Midwest,2013,320091
+East North Central,Midwest,2014,350330
+East North Central,Midwest,2015,340514
+East North Central,Midwest,2016,337519
+East North Central,Midwest,2017,314580
+East North Central,Midwest,2018,319437
+East North Central,Midwest,2019,307933
+East North Central,Northeast,2010,77871
+East North Central,Northeast,2011,74697
+East North Central,Northeast,2012,65945
+East North Central,Northeast,2013,69532
+East North Central,Northeast,2014,65628
+East North Central,Northeast,2015,69870
+East North Central,Northeast,2016,75428
+East North Central,Northeast,2017,71889
+East North Central,Northeast,2018,67214
+East North Central,Northeast,2019,68434
+East North Central,South,2010,356381
+East North Central,South,2011,364995
+East North Central,South,2012,361423
+East North Central,South,2013,377450
+East North Central,South,2014,370967
+East North Central,South,2015,390468
+East North Central,South,2016,381114
+East North Central,South,2017,373591
+East North Central,South,2018,356015
+East North Central,South,2019,367230
+East North Central,West,2010,145625
+East North Central,West,2011,161515
+East North Central,West,2012,158165
+East North Central,West,2013,151752
+East North Central,West,2014,168479
+East North Central,West,2015,181172
+East North Central,West,2016,171153
+East North Central,West,2017,179499
+East North Central,West,2018,164272
+East North Central,West,2019,153562
+East South Central,Midwest,2010,69877
+East South Central,Midwest,2011,81710
+East South Central,Midwest,2012,83249
+East South Central,Midwest,2013,78548
+East South Central,Midwest,2014,89161
+East South Central,Midwest,2015,87208
+East South Central,Midwest,2016,91864
+East South Central,Midwest,2017,91326
+East South Central,Midwest,2018,90155
+East South Central,Midwest,2019,86151
+East South Central,Northeast,2010,17222
+East South Central,Northeast,2011,25266
+East South Central,Northeast,2012,18858
+East South Central,Northeast,2013,20038
+East South Central,Northeast,2014,23352
+East South Central,Northeast,2015,19204
+East South Central,Northeast,2016,21843
+East South Central,Northeast,2017,21033
+East South Central,Northeast,2018,21427
+East South Central,Northeast,2019,24011
+East South Central,South,2010,271232
+East South Central,South,2011,275844
+East South Central,South,2012,285786
+East South Central,South,2013,277378
+East South Central,South,2014,279356
+East South Central,South,2015,305395
+East South Central,South,2016,294507
+East South Central,South,2017,272315
+East South Central,South,2018,284539
+East South Central,South,2019,255458
+East South Central,West,2010,45387
+East South Central,West,2011,46082
+East South Central,West,2012,55111
+East South Central,West,2013,51895
+East South Central,West,2014,50882
+East South Central,West,2015,56347
+East South Central,West,2016,55370
+East South Central,West,2017,49990
+East South Central,West,2018,52404
+East South Central,West,2019,50797
+Middle Atlantic,Midwest,2010,71902
+Middle Atlantic,Midwest,2011,79957
+Middle Atlantic,Midwest,2012,79450
+Middle Atlantic,Midwest,2013,78687
+Middle Atlantic,Midwest,2014,92936
+Middle Atlantic,Midwest,2015,88962
+Middle Atlantic,Midwest,2016,86873
+Middle Atlantic,Midwest,2017,87708
+Middle Atlantic,Midwest,2018,91237
+Middle Atlantic,Midwest,2019,91922
+Middle Atlantic,Northeast,2010,268201
+Middle Atlantic,Northeast,2011,273133
+Middle Atlantic,Northeast,2012,283579
+Middle Atlantic,Northeast,2013,274110
+Middle Atlantic,Northeast,2014,277877
+Middle Atlantic,Northeast,2015,295912
+Middle Atlantic,Northeast,2016,295281
+Middle Atlantic,Northeast,2017,310098
+Middle Atlantic,Northeast,2018,320032
+Middle Atlantic,Northeast,2019,310654
+Middle Atlantic,South,2010,336763
+Middle Atlantic,South,2011,358619
+Middle Atlantic,South,2012,382859
+Middle Atlantic,South,2013,382299
+Middle Atlantic,South,2014,386644
+Middle Atlantic,South,2015,428213
+Middle Atlantic,South,2016,413321
+Middle Atlantic,South,2017,400766
+Middle Atlantic,South,2018,391694
+Middle Atlantic,South,2019,397776
+Middle Atlantic,West,2010,90055
+Middle Atlantic,West,2011,97587
+Middle Atlantic,West,2012,116334
+Middle Atlantic,West,2013,115958
+Middle Atlantic,West,2014,127044
+Middle Atlantic,West,2015,126035
+Middle Atlantic,West,2016,139283
+Middle Atlantic,West,2017,133603
+Middle Atlantic,West,2018,127204
+Middle Atlantic,West,2019,125741
+Mountain,Midwest,2010,104113
+Mountain,Midwest,2011,122582
+Mountain,Midwest,2012,115126
+Mountain,Midwest,2013,113372
+Mountain,Midwest,2014,113168
+Mountain,Midwest,2015,116938
+Mountain,Midwest,2016,118528
+Mountain,Midwest,2017,111365
+Mountain,Midwest,2018,122950
+Mountain,Midwest,2019,113557
+Mountain,Northeast,2010,39678
+Mountain,Northeast,2011,40241
+Mountain,Northeast,2012,40032
+Mountain,Northeast,2013,38834
+Mountain,Northeast,2014,43234
+Mountain,Northeast,2015,42659
+Mountain,Northeast,2016,39400
+Mountain,Northeast,2017,41251
+Mountain,Northeast,2018,42023
+Mountain,Northeast,2019,40114
+Mountain,South,2010,177371
+Mountain,South,2011,191236
+Mountain,South,2012,202279
+Mountain,South,2013,209295
+Mountain,South,2014,204701
+Mountain,South,2015,203486
+Mountain,South,2016,200733
+Mountain,South,2017,210821
+Mountain,South,2018,220583
+Mountain,South,2019,233172
+Mountain,West,2010,348792
+Mountain,West,2011,389991
+Mountain,West,2012,377154
+Mountain,West,2013,380015
+Mountain,West,2014,395485
+Mountain,West,2015,376275
+Mountain,West,2016,381000
+Mountain,West,2017,360236
+Mountain,West,2018,370034
+Mountain,West,2019,367554
+New England,Midwest,2010,24985
+New England,Midwest,2011,32518
+New England,Midwest,2012,26292
+New England,Midwest,2013,29915
+New England,Midwest,2014,31263
+New England,Midwest,2015,34728
+New England,Midwest,2016,34159
+New England,Midwest,2017,28921
+New England,Midwest,2018,30695
+New England,Midwest,2019,33542
+New England,Northeast,2010,163944
+New England,Northeast,2011,167490
+New England,Northeast,2012,179146
+New England,Northeast,2013,180145
+New England,Northeast,2014,175341
+New England,Northeast,2015,174918
+New England,Northeast,2016,194402
+New England,Northeast,2017,186765
+New England,Northeast,2018,180795
+New England,Northeast,2019,192024
+New England,South,2010,111818
+New England,South,2011,120885
+New England,South,2012,110641
+New England,South,2013,119156
+New England,South,2014,125459
+New England,South,2015,137831
+New England,South,2016,142694
+New England,South,2017,118698
+New England,South,2018,139284
+New England,South,2019,126044
+New England,West,2010,46701
+New England,West,2011,42514
+New England,West,2012,56924
+New England,West,2013,50726
+New England,West,2014,48941
+New England,West,2015,61650
+New England,West,2016,56432
+New England,West,2017,57823
+New England,West,2018,63378
+New England,West,2019,66017
+Pacific,Midwest,2010,115049
+Pacific,Midwest,2011,125701
+Pacific,Midwest,2012,126127
+Pacific,Midwest,2013,135371
+Pacific,Midwest,2014,129550
+Pacific,Midwest,2015,129894
+Pacific,Midwest,2016,121753
+Pacific,Midwest,2017,135671
+Pacific,Midwest,2018,125012
+Pacific,Midwest,2019,124854
+Pacific,Northeast,2010,99244
+Pacific,Northeast,2011,93600
+Pacific,Northeast,2012,84814
+Pacific,Northeast,2013,92399
+Pacific,Northeast,2014,89244
+Pacific,Northeast,2015,83965
+Pacific,Northeast,2016,91589
+Pacific,Northeast,2017,95438
+Pacific,Northeast,2018,90741
+Pacific,Northeast,2019,93125
+Pacific,South,2010,300930
+Pacific,South,2011,304849
+Pacific,South,2012,295325
+Pacific,South,2013,312531
+Pacific,South,2014,312465
+Pacific,South,2015,282457
+Pacific,South,2016,308369
+Pacific,South,2017,298750
+Pacific,South,2018,348580
+Pacific,South,2019,335360
+Pacific,West,2010,469022
+Pacific,West,2011,489422
+Pacific,West,2012,494941
+Pacific,West,2013,504479
+Pacific,West,2014,516736
+Pacific,West,2015,536173
+Pacific,West,2016,541703
+Pacific,West,2017,549003
+Pacific,West,2018,588521
+Pacific,West,2019,534244
+South Atlantic,Midwest,2010,187526
+South Atlantic,Midwest,2011,196424
+South Atlantic,Midwest,2012,210398
+South Atlantic,Midwest,2013,215315
+South Atlantic,Midwest,2014,204587
+South Atlantic,Midwest,2015,199738
+South Atlantic,Midwest,2016,211279
+South Atlantic,Midwest,2017,206118
+South Atlantic,Midwest,2018,198853
+South Atlantic,Midwest,2019,206158
+South Atlantic,Northeast,2010,240247
+South Atlantic,Northeast,2011,249911
+South Atlantic,Northeast,2012,241050
+South Atlantic,Northeast,2013,250053
+South Atlantic,Northeast,2014,242131
+South Atlantic,Northeast,2015,231249
+South Atlantic,Northeast,2016,233971
+South Atlantic,Northeast,2017,260578
+South Atlantic,Northeast,2018,239216
+South Atlantic,Northeast,2019,242632
+South Atlantic,South,2010,890562
+South Atlantic,South,2011,894327
+South Atlantic,South,2012,913956
+South Atlantic,South,2013,923487
+South Atlantic,South,2014,954891
+South Atlantic,South,2015,984890
+South Atlantic,South,2016,972268
+South Atlantic,South,2017,933352
+South Atlantic,South,2018,973104
+South Atlantic,South,2019,976344
+South Atlantic,West,2010,206428
+South Atlantic,West,2011,208592
+South Atlantic,West,2012,209555
+South Atlantic,West,2013,231323
+South Atlantic,West,2014,227886
+South Atlantic,West,2015,248472
+South Atlantic,West,2016,261104
+South Atlantic,West,2017,264952
+South Atlantic,West,2018,256318
+South Atlantic,West,2019,251364
+West North Central,Midwest,2010,229954
+West North Central,Midwest,2011,232512
+West North Central,Midwest,2012,233018
+West North Central,Midwest,2013,241809
+West North Central,Midwest,2014,232774
+West North Central,Midwest,2015,252766
+West North Central,Midwest,2016,242880
+West North Central,Midwest,2017,248185
+West North Central,Midwest,2018,241676
+West North Central,Midwest,2019,243650
+West North Central,Northeast,2010,23469
+West North Central,Northeast,2011,23352
+West North Central,Northeast,2012,19277
+West North Central,Northeast,2013,22172
+West North Central,Northeast,2014,22565
+West North Central,Northeast,2015,21817
+West North Central,Northeast,2016,26408
+West North Central,Northeast,2017,28905
+West North Central,Northeast,2018,22641
+West North Central,Northeast,2019,23810
+West North Central,South,2010,150758
+West North Central,South,2011,156974
+West North Central,South,2012,156310
+West North Central,South,2013,152466
+West North Central,South,2014,165971
+West North Central,South,2015,177363
+West North Central,South,2016,168740
+West North Central,South,2017,164489
+West North Central,South,2018,182839
+West North Central,South,2019,143661
+West North Central,West,2010,102138
+West North Central,West,2011,106270
+West North Central,West,2012,111863
+West North Central,West,2013,119520
+West North Central,West,2014,126300
+West North Central,West,2015,122606
+West North Central,West,2016,127320
+West North Central,West,2017,128369
+West North Central,West,2018,123745
+West North Central,West,2019,112417
+West South Central,Midwest,2010,114302
+West South Central,Midwest,2011,120695
+West South Central,Midwest,2012,124666
+West South Central,Midwest,2013,119641
+West South Central,Midwest,2014,125398
+West South Central,Midwest,2015,126669
+West South Central,Midwest,2016,128825
+West South Central,Midwest,2017,133477
+West South Central,Midwest,2018,121408
+West South Central,Midwest,2019,116056
+West South Central,Northeast,2010,41708
+West South Central,Northeast,2011,38386
+West South Central,Northeast,2012,41847
+West South Central,Northeast,2013,48406
+West South Central,Northeast,2014,46081
+West South Central,Northeast,2015,47558
+West South Central,Northeast,2016,48923
+West South Central,Northeast,2017,47008
+West South Central,Northeast,2018,54704
+West South Central,Northeast,2019,53463
+West South Central,South,2010,327183
+West South Central,South,2011,327859
+West South Central,South,2012,330109
+West South Central,South,2013,341697
+West South Central,South,2014,325689
+West South Central,South,2015,358118
+West South Central,South,2016,347413
+West South Central,South,2017,363869
+West South Central,South,2018,355704
+West South Central,South,2019,337545
+West South Central,West,2010,171459
+West South Central,West,2011,162727
+West South Central,West,2012,169060
+West South Central,West,2013,177468
+West South Central,West,2014,191653
+West South Central,West,2015,188609
+West South Central,West,2016,189087
+West South Central,West,2017,191051
+West South Central,West,2018,192848
+West South Central,West,2019,191961
