@@ -1,0 +1,511 @@
+0,1
+2010,"      previous_division  estimate
+0               Pacific      1618
+10              Pacific     16699
+20              Pacific      1567
+30              Pacific      1796
+40              Pacific      2874
+50   East South Central      3044
+60   East South Central      4419
+70   East South Central      1187
+80   East South Central      8685
+90   West South Central       550
+100  West South Central      2180
+110  West South Central      1453
+120  West South Central     14329
+130            Mountain      2847
+140            Mountain      1842
+150            Mountain       724
+160            Mountain       230
+170            Mountain      1186
+180            Mountain       698
+190            Mountain       790
+200            Mountain       870
+210         New England      3752
+220         New England      4052
+230         New England      2259
+240         New England      2130
+250         New England        97
+260         New England       350
+270      South Atlantic      1691
+280      South Atlantic       479
+290      South Atlantic     28983
+300      South Atlantic     15943
+310      South Atlantic      9881
+320      South Atlantic     23196
+330      South Atlantic     25662
+340      South Atlantic      3025
+350  West North Central      1077
+360  West North Central      2192
+370  West North Central      1839
+380  West North Central      1932
+390  West North Central       243
+400  West North Central       516
+410  West North Central       362
+420  East North Central      5657
+430  East North Central      4132
+440  East North Central      5789
+450  East North Central      8661
+460  East North Central      2012
+470     Middle Atlantic      7195
+480     Middle Atlantic     19406
+490     Middle Atlantic     11155"
+2011,"      previous_division  estimate
+1               Pacific      3991
+11              Pacific     15373
+21              Pacific      1806
+31              Pacific      1175
+41              Pacific      3295
+51   East South Central      5420
+61   East South Central      1637
+71   East South Central      1273
+81   East South Central      6057
+91   West South Central       327
+101  West South Central      2936
+111  West South Central      1390
+121  West South Central      6621
+131            Mountain      4286
+141            Mountain      3919
+151            Mountain       675
+161            Mountain       563
+171            Mountain      1737
+181            Mountain      1048
+191            Mountain       961
+201            Mountain       153
+211         New England      1975
+221         New England      9053
+231         New England       824
+241         New England      2078
+251         New England       444
+261         New England       212
+271      South Atlantic      1135
+281      South Atlantic       954
+291      South Atlantic     28044
+301      South Atlantic     16192
+311      South Atlantic     10485
+321      South Atlantic     20427
+331      South Atlantic     27302
+341      South Atlantic      2780
+351  West North Central       654
+361  West North Central      4995
+371  West North Central      1294
+381  West North Central      2638
+391  West North Central       189
+401  West North Central      1056
+411  West North Central       565
+421  East North Central      5971
+431  East North Central      3228
+441  East North Central      7530
+451  East North Central     10187
+461  East North Central      2291
+471     Middle Atlantic     10374
+481     Middle Atlantic     18321
+491     Middle Atlantic      9450"
+2012,"      previous_division  estimate
+2               Pacific      1458
+12              Pacific     13883
+22              Pacific      1566
+32              Pacific      1333
+42              Pacific      5915
+52   East South Central      4329
+62   East South Central      1531
+72   East South Central      2377
+82   East South Central      9230
+92   West South Central       861
+102  West South Central       919
+112  West South Central      1263
+122  West South Central     12638
+132            Mountain      3493
+142            Mountain      4790
+152            Mountain       334
+162            Mountain       244
+172            Mountain      1138
+182            Mountain      1627
+192            Mountain      1189
+202            Mountain       604
+212         New England      4914
+222         New England      3710
+232         New England      1259
+242         New England       754
+252         New England       290
+262         New England       445
+272      South Atlantic      1801
+282      South Atlantic      2180
+292      South Atlantic     26365
+302      South Atlantic     16823
+312      South Atlantic      9005
+322      South Atlantic     25532
+332      South Atlantic     26759
+342      South Atlantic      2677
+352  West North Central       775
+362  West North Central      1595
+372  West North Central      1523
+382  West North Central      2623
+392  West North Central       206
+402  West North Central       628
+412  West North Central       351
+422  East North Central      6378
+432  East North Central      4532
+442  East North Central      6161
+452  East North Central      9337
+462  East North Central      2266
+472     Middle Atlantic     11468
+482     Middle Atlantic     19891
+492     Middle Atlantic     12179"
+2013,"      previous_division  estimate
+3               Pacific      4199
+13              Pacific     14315
+23              Pacific      1016
+33              Pacific      1442
+43              Pacific      1929
+53   East South Central      3268
+63   East South Central      3911
+73   East South Central      1661
+83   East South Central      7249
+93   West South Central      1350
+103  West South Central      1474
+113  West South Central      1743
+123  West South Central      9617
+133            Mountain      4437
+143            Mountain      4554
+153            Mountain       750
+163            Mountain       750
+173            Mountain      1143
+183            Mountain      2165
+193            Mountain      1084
+203            Mountain        35
+213         New England      3918
+223         New England      6177
+233         New England       615
+243         New England      1923
+253         New England       560
+263         New England       863
+273      South Atlantic      2032
+283      South Atlantic      1111
+293      South Atlantic     24551
+303      South Atlantic     20440
+313      South Atlantic     13538
+323      South Atlantic     22996
+333      South Atlantic     30058
+343      South Atlantic      3684
+353  West North Central      1380
+363  West North Central      1237
+373  West North Central      1969
+383  West North Central      1207
+393  West North Central         0
+403  West North Central       648
+413  West North Central         0
+423  East North Central      6500
+433  East North Central      1888
+443  East North Central      6438
+453  East North Central      8939
+463  East North Central      1449
+473     Middle Atlantic      7690
+483     Middle Atlantic     22751
+493     Middle Atlantic     13268"
+2014,"      previous_division  estimate
+4               Pacific      2467
+14              Pacific     16448
+24              Pacific      2546
+34              Pacific      1311
+44              Pacific      4435
+54   East South Central      4264
+64   East South Central      2872
+74   East South Central      1029
+84   East South Central      6397
+94   West South Central       571
+104  West South Central      1195
+114  West South Central       685
+124  West South Central     15604
+134            Mountain      2246
+144            Mountain      5108
+154            Mountain       293
+164            Mountain       207
+174            Mountain       930
+184            Mountain      1870
+194            Mountain       655
+204            Mountain       675
+214         New England      4754
+224         New England      3880
+234         New England      1715
+244         New England      1202
+254         New England      1356
+264         New England       564
+274      South Atlantic      1724
+284      South Atlantic       812
+294      South Atlantic     25532
+304      South Atlantic     15696
+314      South Atlantic      8196
+324      South Atlantic     26379
+334      South Atlantic     28250
+344      South Atlantic      4987
+354  West North Central      1753
+364  West North Central      2627
+374  West North Central      2427
+384  West North Central      2572
+394  West North Central       501
+404  West North Central      1096
+414  West North Central       542
+424  East North Central      7134
+434  East North Central      2349
+444  East North Central      6339
+454  East North Central     11082
+464  East North Central      1710
+474     Middle Atlantic     12697
+484     Middle Atlantic     26255
+494     Middle Atlantic     10594"
+2015,"      previous_division  estimate
+5               Pacific       578
+15              Pacific     16985
+25              Pacific      2910
+35              Pacific       733
+45              Pacific      1883
+55   East South Central      3733
+65   East South Central      4702
+75   East South Central       721
+85   East South Central      7575
+95   West South Central       707
+105  West South Central      2632
+115  West South Central      1067
+125  West South Central     15245
+135            Mountain      5963
+145            Mountain      3634
+155            Mountain       729
+165            Mountain       576
+175            Mountain      1958
+185            Mountain      1854
+195            Mountain      1278
+205            Mountain       582
+215         New England      6709
+225         New England      5387
+235         New England      1904
+245         New England      1195
+255         New England       838
+265         New England       691
+275      South Atlantic      3401
+285      South Atlantic      1676
+295      South Atlantic     27771
+305      South Atlantic     17676
+315      South Atlantic     11383
+325      South Atlantic     27321
+335      South Atlantic     31390
+345      South Atlantic      3387
+355  West North Central      3180
+365  West North Central      2260
+375  West North Central      2635
+385  West North Central      3207
+395  West North Central      1176
+405  West North Central      1631
+415  West North Central      1730
+425  East North Central      8100
+435  East North Central      4903
+445  East North Central      6588
+455  East North Central      7405
+465  East North Central      1217
+475     Middle Atlantic     13233
+485     Middle Atlantic     23594
+495     Middle Atlantic     12979"
+2016,"      previous_division  estimate
+6               Pacific      2059
+16              Pacific     17653
+26              Pacific      1365
+36              Pacific      1263
+46              Pacific      4751
+56   East South Central      3491
+66   East South Central      3409
+76   East South Central      1509
+86   East South Central      8233
+96   West South Central      1135
+106  West South Central      2562
+116  West South Central      2997
+126  West South Central     11981
+136            Mountain      3539
+146            Mountain      4285
+156            Mountain      1267
+166            Mountain       139
+176            Mountain       462
+186            Mountain      2111
+196            Mountain      1271
+206            Mountain       145
+216         New England      7425
+226         New England      5116
+236         New England      1324
+246         New England      1548
+256         New England       897
+266         New England       608
+276      South Atlantic      1737
+286      South Atlantic       955
+296      South Atlantic     32234
+306      South Atlantic     24882
+316      South Atlantic      9671
+326      South Atlantic     32088
+336      South Atlantic     35641
+346      South Atlantic      3722
+356  West North Central       480
+366  West North Central      2245
+376  West North Central      1782
+386  West North Central      4563
+396  West North Central       668
+406  West North Central       164
+416  West North Central       743
+426  East North Central      8568
+436  East North Central      4211
+446  East North Central      6818
+456  East North Central      9665
+466  East North Central      2600
+476     Middle Atlantic     11706
+486     Middle Atlantic     29702
+496     Middle Atlantic     13506"
+2017,"      previous_division  estimate
+7               Pacific      1401
+17              Pacific     22469
+27              Pacific      1463
+37              Pacific      1778
+47              Pacific      5896
+57   East South Central      4526
+67   East South Central      1531
+77   East South Central      1723
+87   East South Central      8416
+97   West South Central       747
+107  West South Central      3491
+117  West South Central      1260
+127  West South Central     14655
+137            Mountain      5624
+147            Mountain      4021
+157            Mountain        97
+167            Mountain       433
+177            Mountain      1047
+187            Mountain      1758
+197            Mountain       623
+207            Mountain       159
+217         New England      5780
+227         New England      7605
+237         New England      1014
+247         New England       273
+257         New England       234
+267         New England       524
+277      South Atlantic      2183
+287      South Atlantic      1186
+297      South Atlantic     33594
+307      South Atlantic     16892
+317      South Atlantic     10899
+327      South Atlantic     28508
+337      South Atlantic     27833
+347      South Atlantic      3423
+357  West North Central       978
+367  West North Central      1590
+377  West North Central      2769
+387  West North Central      4394
+397  West North Central       571
+407  West North Central       259
+417  West North Central        12
+427  East North Central      6013
+437  East North Central      4392
+447  East North Central      5404
+457  East North Central     11359
+467  East North Central      1895
+477     Middle Atlantic     11559
+487     Middle Atlantic     27031
+497     Middle Atlantic     12542"
+2018,"      previous_division  estimate
+8               Pacific      1562
+18              Pacific     17536
+28              Pacific      3402
+38              Pacific      3066
+48              Pacific      6790
+58   East South Central      3287
+68   East South Central      3906
+78   East South Central      3441
+88   East South Central      7476
+98   West South Central      1897
+108  West South Central      2454
+118  West South Central      2034
+128  West South Central     18748
+138            Mountain      2622
+148            Mountain      5471
+158            Mountain       244
+168            Mountain       331
+178            Mountain      2306
+188            Mountain       857
+198            Mountain      1735
+208            Mountain      1046
+218         New England      2702
+228         New England      5822
+238         New England      1235
+248         New England      1862
+258         New England      1535
+268         New England      1208
+278      South Atlantic      2031
+288      South Atlantic      1988
+298      South Atlantic     37585
+308      South Atlantic     17020
+318      South Atlantic      8717
+328      South Atlantic     26091
+338      South Atlantic     27843
+348      South Atlantic      4624
+358  West North Central      1976
+368  West North Central      1815
+378  West North Central      3342
+388  West North Central      2993
+398  West North Central       177
+408  West North Central      1052
+418  West North Central        57
+428  East North Central      6544
+438  East North Central      3506
+448  East North Central      5793
+458  East North Central      9431
+468  East North Central      1920
+478     Middle Atlantic     11947
+488     Middle Atlantic     25596
+498     Middle Atlantic     12058"
+2019,"      previous_division  estimate
+9               Pacific      1568
+19              Pacific     18023
+29              Pacific      2955
+39              Pacific      1976
+49              Pacific      2984
+59   East South Central      4697
+69   East South Central      4793
+79   East South Central       818
+89   East South Central      9970
+99   West South Central      1976
+109  West South Central      1272
+119  West South Central      1705
+129  West South Central     14226
+139            Mountain      5319
+149            Mountain      6089
+159            Mountain       476
+169            Mountain      1004
+179            Mountain      1270
+189            Mountain      1094
+199            Mountain      1125
+209            Mountain       161
+219         New England      5840
+229         New England      5389
+239         New England       526
+249         New England       867
+259         New England      1531
+269         New England       435
+279      South Atlantic      1700
+289      South Atlantic      1595
+299      South Atlantic     30032
+309      South Atlantic     19017
+319      South Atlantic     13408
+329      South Atlantic     27740
+339      South Atlantic     29764
+349      South Atlantic      2950
+359  West North Central      1227
+369  West North Central       857
+379  West North Central      2447
+389  West North Central      2982
+399  West North Central       980
+409  West North Central       217
+419  West North Central       185
+429  East North Central      6527
+439  East North Central      5646
+449  East North Central      6302
+459  East North Central      9698
+469  East North Central      1643
+479     Middle Atlantic     15297
+489     Middle Atlantic     23571
+499     Middle Atlantic     13341"
